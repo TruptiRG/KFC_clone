@@ -1,0 +1,499 @@
+
+{
+    "KFC_BIG_TREAT_WEEK":[
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000111.jpg?ver=16.16",
+            "name":"Biryani & Fries Treat",
+            "price":228.57,
+            "description":"Grab this ricey Big Treat with Popcorn Chicken Biryani & Regular Fries at 14% off"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000110.jpg?ver=16.16",
+            "name":"Snack Pack Combo",
+            "price":384.57,
+            "description":"Crunch on 3 Chicken Strips, Medium Popcorn with 1 Regular Fries & 2 Regular Pepsi at 29% off"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-250527D.jpg?ver=16.16",
+            "name":"Ultimate Savings Bucket",
+            "price":648.57,
+            "description":"Save with this bucket with 4 pieces Hot & Crispy, 6 pieces Hot Wings, 4 pieces Boneless Strips, 3 Pepsi and 3 dips (serves 2-3)"
+           
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000109.jpg?ver=16.16",
+            "name":"Wings & Fries Treat",
+            "price":148.57,
+            "description":"Grab this Spicy Big Treat with 3 HW with Regular Fries & Regular Pepsi at 40% off"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000112.jpg?ver=16.16",
+            "name":"Duo Burger Meal",
+            "price":448.57,
+            "description":"Burgering with everything 2- Classic Krispers & Medium Fries with Dips & Pepsi- All in 2's at 21% off"
+            
+        }
+    ],
+
+    "HOT_DEALS":[
+
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000130.jpg?ver=16.16",
+            "name":"Ultimate Savings Bucket",
+            "price":648.57,
+            "description":"Save with this bucket with 4 pieces Hot & Crispy, 6 pieces Hot Wings, 4 pieces Boneless Strips, 3 Pepsi and 2"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-120180.jpg?ver=16.16",
+            "name":"Big 8",
+            "price":579.05,
+            "description":"Save upto 31% with this bucket that has 4 pieces of Hot & Crispy and 4 pieces of Smoky Red (serves 2)"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000132.jpg?ver=16.16",
+            "name":"5 Leg piece + 2 Dips + 2 Pepsi",
+            "price":584.57,
+            "description":"Your favorite chicken leg pieces in a bucket. 5 pieces served with 2 dips and 2 Pepsi (serves 2)"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404010.jpg?ver=16.16",
+            "name":"Zinger, Fries & Pepsi combo",
+            "price":289.10,
+            "description":"The Classic Zinger meal served with fries and Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404029.jpg?ver=16.16",
+            "name":"Tandoori Zinger, Fries & Pepsi combo",
+            "price":307.62,
+            "description":"The Tandoori Zinger meal served with fries and Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000038.jpg?ver=16.16",
+            "name":"Classic Chicken Biryani Bucket + Reg Pepsi",
+            "price":248.57,
+            "description":"New flavorful Biryani rice with Hot & Crispy chicken served with a spicy gravy & Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000039.jpg?ver=16.16",
+            "name":"Popcorn Chicken Biryani Bucket + Reg Pepsi",
+            "price":248.57,
+            "description":"New flavorful Biryani rice with Popcorn chicken served with a spicy gravy & Pepsi"
+            
+        }
+
+    ],
+
+    "CHICKEN_BUCKETS":[
+
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000028.jpg?ver=16.3",
+            "name":"Classic Chicken Biryani Bucket -Large",
+            "price":428.57,
+            "description":"New flavorful Biryani rice with 2 Hot & Crispy chicken pieces served with a spicy gravy (serves 2)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000029.jpg?ver=16.3",
+            "name":"Popcorn Chicken Biryani Bucket -Large",
+            "price":428.57,
+            "description":"New flavorful Biryani rice with Popcorn chicken served with a spicy gravy (serves 2)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000131.jpg?ver=16.3",
+            "name":"5 Leg piece + 2 Dips",
+            "price":448.57,
+            "description":"Your favorite chicken leg pieces in a bucket. 5 pieces served with 2 dips (serves 2)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000132.jpg?ver=16.3",
+            "name":"5 Leg piece + 2 Dips + 2 Pepsi",
+            "price":548.57,
+            "description":"Your favorite chicken leg pieces in a bucket. 5 pieces served with 2 dips and 2 Pepsi (serves 2)"
+        },
+    
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000133.jpg?ver=16.3",
+            "name":"10 Leg piece + 4 dips",
+            "price":848.57,
+            "description":"Your favorite chicken leg pieces in a bucket. 10 pieces served with 4 dips (serves 3-4)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000130.jpg?ver=16.3",
+            "name":"Ultimate Savings Bucket",
+            "price":648.57,
+            "description":"Save with 4 pieces Hot & Crispy, 6 pieces Hot Wings, 4 pieces Boneless Strips, 3 Pepsi and 2 dips (serves 2-3)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-120181.jpg?ver=16.3",
+            "name":"Big 8 with 2 Pepsi",
+            "price":699.05,
+            "description":"Save big with this bucket that has 4 pieces of Hot & Crispy and 4 pieces of Smoky Red & 2 Pepsi (serves 2)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-120180.jpg?ver=16.3",
+            "name":"Big 8",
+            "price":579.05,
+            "description":"Save upto 31% with this bucket that has 4 pieces of Hot & Crispy and 4 pieces of Smoky Red (serves 2)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404002.jpg?ver=16.3",
+            "name":"5pc Smoky Red with 2 Pepsi",
+            "price":493.05,
+            "description":"5 pieces of Colonel's signature Smoky Red with 2 Pepsi (serves 2)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-120187.jpg?ver=16.3",
+            "name":"5pc Smoky Red",
+            "price":428.57,
+            "description":"5 pieces of Colonel's signature Smoky Red (serves 2)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-403124.jpg?ver=16.3",
+            "name":"4pc Hot & Crispy with 2 Pepsi",
+            "price":404.76,
+            "description":"4 pieces of crispy, juicy chicken in a bucket served with 2 Pepsi (serves 2)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404003.jpg?ver=16.3",
+            "name":"4pc Hot & Crispy with large popcorn",
+            "price":598.10,
+            "description":"4 pieces of crispy, juicy chicken in a bucket with large Popcorn (serves 2)"
+        },
+    
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-100010.jpg?ver=16.3",
+            "name":"4pcs Hot & Crispy Chicken",
+            "price":399.05,
+            "description":"Ask for four more! 4 pieces of Colonel's signature Hot & Crispy chicken."
+        }
+    
+
+    ],
+
+    "BOX_MEALS":[
+
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000042.jpg?ver=16.3",
+            "name":"Popcorn Biryani Box",
+            "price":279.05,
+            "description":"Value Meal with flavorful Popcorn Biryani Bucket & spicy dip, 2 piece Hot Wings and Pepsi"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000043.jpg?ver=16.3",
+            "name":"Veg Biryani Box",
+            "price":248.57,
+            "description":"Value Meal with flavorful Veg Biryani Bucket & spicy dip, veg patty and Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404057.jpg?ver=16.3",
+            "name":"All Chicken Box Meal",
+            "price":179.05,
+            "description":"Value Meal with 2 piece Hot Wings, 1 piece Hot & Crispy and Pepsi"
+            
+        },
+    
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404059.jpg?ver=16.3",
+            "name":"Classic Zinger Box Meal",
+            "price":288.57,
+            "description":"Value Meal with Classic Zinger, 2 piece Hot Wings, Fries and Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404060.jpg?ver=16.3",
+            "name":"Tandoori Zinger Box Meal",
+            "price":299.05,
+            "description":"Value Meal with Tandoori Zinger, 2 piece Hot Wings, Fries and Pepsi"
+            
+        }
+
+    ],
+
+    "BURGERS":[
+
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404085.jpg?ver=16.3",
+            "name":"Classic Veg Krisper",
+            "price":79.05,
+            "description":"Value burger with a veg patty, lettuce and mayo"
+            
+        },
+    
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404086.jpg?ver=16.3",
+            "name":"Spicy Veg Krisper",
+            "price":79.05,
+            "description":"Value burger with a veg patty, lettuce and spicy sauce"
+            
+        },{
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404087.jpg?ver=16.3",
+            "name":"Classic Chicken Krisper",
+            "price":99.05,
+            "description":"Value burger with a chicken fillet, lettuce and mayo"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404088.jpg?ver=16.3",
+            "name":"Spicy Chicken Krisper",
+            "price":99.05,
+            "description":"Value burger with a chicken fillet, lettuce and spicy sauce"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404089D.jpg?ver=16.3",
+            "name":"Classic Veg Krisper, Fries & Pepsi combo",
+            "price":178.10,
+            "description":"Value burger with a veg patty, lettuce and mayo served with fries & Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404090D.jpg?ver=16.3",
+            "name":"Spicy Veg Krisper, Fries & Pepsi combo",
+            "price":167.62,
+            "description":"Value burger with a veg patty, lettuce and spicy sauce served with fries & Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404140.jpg?ver=16.3",
+            "name":"Classic Chicken Krisper, Popcorn & Pepsi Combo",
+            "price":228.57,
+            "description":"Value burger with a chicken fillet, lettuce and mayo served with Popcorn & Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404141.jpg?ver=16.3",
+            "name":"Spicy Chicken Krisper, Popcorn & Pepsi Combo",
+            "price":228.57,
+            "description":"Value burger with a chicken fillet, lettuce and spicy sauce served with Popcorn & Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-110212.jpg?ver=16.3",
+            "name":"Zinger, Wings and Pepsi combo",
+            "price":402.68,
+            "description":"Relish the Classic Zinger with 4 pieces Hot Wings and Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404007.jpg?ver=16.3",
+            "name":"Zinger & Popcorn combo",
+            "price":378.10,
+            "description":"Relish the Classic Zinger with a large popcorn"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404010.jpg?ver=16.3",
+            "name":"Zinger, Fries & Pepsi combo",
+            "price":298.10,
+            "description":"The Classic Zinger meal served with fries and Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-110003.jpg?ver=16.3",
+            "name":"Veg Zinger",
+            "price":168.57,
+            "description":"Signature veg burger with crispy patties, veggies & a tangy sauce"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404028.jpg?ver=16.3",
+            "name":"Tandoori Zinger & Popcorn combo",
+            "price":387.62,
+            "description":"Relish the Tandoori Zinger with large Popcorn"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-110201.jpg?ver=16.3",
+            "name":"Classic Zinger",
+            "price":179.50,
+            "description":"Signature chicken burger made with a crunchy chicken fillet, veggies & a delicious mayo sauce"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404029.jpg?ver=16.3",
+            "name":"Tandoori Zinger, Fries & Pepsi combo",
+            "price":307.62,
+            "description":"The Tandoori Zinger meal served with fries and Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404015.jpg?ver=16.3",
+            "name":"Veg Zinger, Fries & Pepsi combo",
+            "price":268.57,
+            "description":"The Veg Zinger meal served with fries and Pepsi"
+            
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404027.jpg?ver=16.3",
+            "name":"Tandoori Zinger",
+            "price":188.57,
+            "description":"Chicken zinger with a delicious tandoori sauce"
+            
+        }
+
+    ],
+
+   "BIRYANI_BUCKETS": [
+
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000038.jpg?ver=16.41",
+            "name":"Classic Chicken Biryani Bucket + Reg Pepsi",
+            "price":248.57,
+            "description":"New flavorful Biryani rice with Hot & Crispy chicken served with a spicy gravy & Pepsi"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000039.jpg?ver=16.41",
+            "name":"Popcorn Chicken Biryani Bucket + Reg Pepsi",
+            "price":248.57,
+            "description":"New flavorful Biryani rice with Popcorn chicken served with a spicy gravy & Pepsi"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000040.jpg?ver=16.41",
+            "name":"Grilled Chicken Biryani Bucket + Reg Pepsi",
+            "price":248.57,
+            "description":"New flavorful Biryani rice with Grilled chicken served with a spicy gravy & Pepsi"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000037.jpg?ver=16.41",
+            "name":"Veg Biryani Bucket + Reg Pepsi",
+            "price":219.05,
+            "description":"New flavorful Biryani rice with Veg Patty served with a spicy gravy & Pepsi"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000024.jpg?ver=16.41",
+            "name":"Classic Chicken Biryani Bucket",
+            "price":208.57,
+            "description":"New flavorful Biryani rice with Hot & Crispy chicken served with a spicy gravy"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000025.jpg?ver=16.41",
+            "name":"Popcorn Chicken Biryani Bucket",
+            "price":208.57,
+            "description":"New flavorful Biryani rice with Popcorn chicken served with a spicy gravy"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000026.jpg?ver=16.41",
+            "name":"Smoky Grilled Biryani Bucket",
+            "price":208.57,
+            "description":"New flavorful Biryani rice with Grilled chicken served with a spicy gravy"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000027.jpg?ver=16.41",
+            "name":"Veg Biryani Bucket",
+            "price":168.57,
+            "description":"New flavorful Biryani rice with Veg Patty served with a spicy gravy"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000028.jpg?ver=16.41",
+            "name":"Classic Chicken Biryani Bucket -Large",
+            "price":428.57,
+            "description":"New flavorful Biryani rice with 2 Hot & Crispy chicken pieces served with a spicy gravy (serves 2)"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000029.jpg?ver=16.41",
+            "name":"Popcorn Chicken Biryani Bucket -Large",
+            "price":248.57,
+            "description":"New flavorful Biryani rice with Popcorn chicken served with a spicy gravy (serves 2)"
+        }
+
+    ],
+
+    "SNACK":[
+
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404044.jpg?ver=16.41",
+            "name":"Hot wings & Tandoori masala dip combo",
+            "price":175.24,
+            "description":"Our signature snack served with the new Tandoori Masala dip"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404046.jpg?ver=16.41",
+            "name":"Popcorn & Tandoori masala dip combo",
+            "price":175.24,
+            "description":"Bite sized boneless pieces of Hot & Crispy served with the new Tandoori Masala dip"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-404045.jpg?ver=16.41",
+            "name":"Strips & Tandoori masala dip combo",
+            "price":175.24,
+            "description":"3 pieces tender, juicy boneless strips served with the new Tandoori Masala dip"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-120089.jpg?ver=16.41",
+            "name":"Large Popcorn",
+            "price":199.05,
+            "description":"Signature bite-sized boneless chicken, with special spices"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-120085.jpg?ver=16.41",
+            "name":"4pc Hot wings",
+            "price":155.24,
+            "description":"Save upto Rs. 101 & Pick any combo - 5pc Hot & Crispy Chicken OR 10 chicken strips OR 2 Large Popcorn"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-100008.jpg?ver=16.41",
+            "name":"2 pc Hot & Crispy Chicken",
+            "price":195.24,
+            "description":"Signature Hot & crispy chicken"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-120146.jpg?ver=16.41",
+            "name":"2 pc Veg Patty",
+            "price":151.43,
+            "description":"Delicious, crispy, veg add-on"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-8000114.jpg?ver=16.41",
+            "name":"Dynamite Spicy Mayo Sauce Bottle",
+            "price":189.52,
+            "description":"Spicy dynamite mayo -one of our signature sauce in a bottle"
+        }
+
+    ],
+
+    "BEVERAGES_AND_DESSERTS":[   
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-160065.jpg?ver=16.41",
+            "name":"Choco Mud Pie",
+            "price":119.05,
+            "description":"Chocolate lovers unite! Say hello to our delicous, new, creamy chocolate & cake dessert- a must try!"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-160067.jpg?ver=16.41",
+            "name":"Coffee Mousse Cake",
+            "price":119.05,
+            "description":"Coffee, chocolate, cake?what's not to love? Enjoy our delicious, new dessert for those coffee-licious temptations!"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-200011.jpg?ver=16.41",
+            "name":"Pepsi Large",
+            "price":99.05,
+            "description":"Refereshing beverage"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-200015.jpg?ver=16.41",
+            "name":"Mirinda Large",
+            "price":99.05,
+            "description":"Refereshing beverage"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-200013.jpg?ver=16.41",
+            "name":"7UP Large",
+            "price":99.05,
+            "description":"Refereshing beverage"
+        },
+        {
+            "img":"https://orderserv-kfc-assets.yum.com/15895bb59f7b4bb588ee933f8cd5344a/images/items/xl/L-210002.jpg?ver=16.41",
+            "name":"Mojito",
+            "price":79.05,
+            "description":"Our signature Krusher"
+        }
+    ]
+}
