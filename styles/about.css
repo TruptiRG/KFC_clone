@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#allabout{
+    position: relative;
+    top: 100px;
+    border: 2px solid black;
+}
+
+#ab1{
+    /* margin-top: 5px; */
+    /* border: 1px solid red; */
+    padding: 18px;
+    color: wheat;
+    background-color:#11181f;
+    display: flex;
+    justify-content: space-around;
+}
+#ab1 a{
+    color: gray;
+    font-weight: bold;
+    text-decoration: none;
+}
+#ab1 a:hover{
+    color: white;
+}
+#ab2{
+    /* border: 1px solid green; */
+    display: flex;
+    
+}
+#ab2div{
+    /* border: 1px solid blue; */
+    width: 35%;
+    background-color: #e4002b;
+    padding: 20px;
+}
+#ab2img{
+    width: 65%;
+    opacity: 5;    
+}
+.abh1{
+    font-size: 75px;
+    color: whitesmoke;
+    margin-top: 80px;
+}
+.abh2{
+    font-size: 110px;
+    position: absolute;
+    top: 11%;
+    margin-left: 15px;
+    color: whitesmoke;
+    /* color: black; */
+    letter-spacing: -2.9mm;
+    font-weight: bold;
+    margin-top: 80px;
+}
+#ab3{
+    /* border: 1px solid blueviolet; */
+    padding: 40px;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 5%;
+}
+#ab3 img{
+    width: 100%;
+    border-radius: 10px;
+    /* position: relative; */
+}
+#ab4{
+    /* border: 1px solid blueviolet; */
+    background-color: #e4002b;
+    color: white;
+    padding: 50px;
+}
+#ab4 p{
+    padding: 20px;
+    word-spacing: 1mm;
+}
+#ab4 h2{
+    padding: 20px;
+    font-size: 30px;
+}
+#ab4a{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 5%;
+    padding: 80px;
+
+
+}
+#ab4a div{
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    text-align: center;
+    height: 220px;
+}    
+#ab4a div h5{
+    font-weight: bolder;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+

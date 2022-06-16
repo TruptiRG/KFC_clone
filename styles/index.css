@@ -1,0 +1,440 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#navbar{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: auto;
+    background-color: white;
+    
+}
+header{
+    position: fixed;
+    z-index: 16;
+    margin: auto;
+    width: 100%;
+    margin-top: -15px;
+}
+
+#nav1{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    width: 400px;
+    
+}
+
+#nav2{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 230px;
+    margin-top: 10px;
+}
+#qty{
+    width: 50px;
+    height: 50px;
+    /* border: 1px solid black; */
+    margin-top: 5px;
+}
+#cartpa{
+    /* border: 1px solid black; */
+    margin-top: -35px;
+    margin-left: 18px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#cc{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#sign{
+    width: 30px;
+    height: 25px;
+    /* border: 1px solid black; */
+    margin-top: 18px;
+}
+#sig{
+    /* border: 1px solid black; */
+    margin-top: 19px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    margin-right: 5px;
+}
+#price{
+    /* border: 1px solid black; */
+    margin-top: 18px;
+    font-size: medium;
+    margin-left: 8px;
+    font-size: 12px;
+}
+#hr{
+    border: 1px solid gray;
+    /* color: black; */
+    /* padding: 10px; */
+    margin: -10px;
+    height: 60%;
+    margin-top: 10px;
+}
+#logo{
+    margin-top: 20px;
+}
+#menu{
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+}
+#deals{
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    
+}
+
+/* =================================================================================== */
+
+#second{
+    height: 220px;
+    top: 100px;
+    position: relative;
+}
+
+#soerder{
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid black; */
+    color: white;
+    background-color: rgb(26, 25, 25);
+    margin-top: 15px;
+    padding: 15px;
+    /* margin-left: -10px; */
+}
+#soerder h6{
+    margin-top: 5px;
+}
+#l{
+    padding: 10px;
+}
+#select{
+    /* border: 1px solid black; */
+    border-radius: 50PX;
+    display: flex;
+    justify-content: space-around;
+    width: 40%;
+    margin: auto;
+    background-color: rgb(211, 206, 206);
+    color: rgb(70, 68, 68);
+    padding: 8px;
+    margin-top: 30px;
+}
+#select h5:hover{
+    border-bottom: 3px solid #E4002B;
+    cursor: pointer;
+}
+#or{
+     /* border: 1px solid black;  */
+     height: 100%;
+
+}
+#or h2{
+    margin-left: 33%;
+    font-size: 20px;
+    font-weight: bolder;
+    color: black;
+    margin-top: 3%;
+    margin-left: 35%;
+}
+#or img{
+    margin-left: 48%;
+}
+
+/*#top{
+    border: 1px solid black;
+}
+#all3{
+    display: block;
+    border: 1px solid black;
+}
+#bg-modal{
+    width: 100%;
+    
+    background-color:rgba(0, 0, 0, 0.6);
+    position: absolute;
+    top: 80;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+.model-content{
+    width: 50%;
+    
+    background-color: white;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    padding: 20px;
+    position: relative;
+    
+}
+.close{
+    position: absolute;
+    top: 0;
+    right: 14px;
+    font-size: 40px;
+    transform: rotate(45deg);
+    cursor: pointer;
+}/*  
+
+/* =================================================================================================== */
+
+#slide{
+    /* border: 1px solid black; */
+    margin-top: 12%;
+    
+}
+#ci{
+    width: 100%;
+}
+
+/* ================================================================== */
+
+#w{
+    /* border: 1px solid black; */
+    background-color: rgb(243, 240, 240);
+    height: 150px;
+}
+#w img,h1{
+    margin-left: 10%;
+}
+#w h1{
+    /* font-size: 25px; */
+    letter-spacing:0mm;
+    font-weight: bolder;
+    margin-top: 3%;
+}
+
+/* ====================================================================== */
+
+#b{
+    /* border: 1px solid black; */
+    padding: 50px;
+    
+}
+#b h1{
+    letter-spacing:-0.5mm;
+}
+#b hr{
+   width: 40%;
+   float: right; 
+   margin-top: -40px;
+   margin-right: 80px;
+}
+#b h1{
+    margin-left: 90px;
+    letter-spacing: -0.4mm;
+}
+
+/* ======================================================================= */
+
+#menudiv{
+    /* border: 1px solid black; */
+    width: 81%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 3%;
+}
+#menudiv a{
+    text-decoration: none;
+    color: black;
+}
+#m{
+    /* border: 1px solid yellow; */
+    text-align: center;
+    background-color: #f8f7f5;
+}
+#m img{
+    width: 100%;
+    height: 150px;
+}
+#m h5{
+    font-family: sans-serif;
+    padding: 12px;
+    font-size: 15px;
+    font-weight: bolder;
+    letter-spacing: -0.1mm;
+}
+#m p{
+    padding: 7px;
+}
+#viewall{
+    display: flex;
+    justify-content: center;
+}
+#font{
+    /* border: 1px solid black; */
+    margin-top: 11px;
+}
+/* ====================================================================================== */
+
+#offers{
+    /* border: 1px solid red; */
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin-top: 5%;
+}
+#lines{
+    margin-left: 90px;
+    width: 80px;
+    margin-top: -8px;
+}
+
+#all{
+    /* border: 1px solid orange; */
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 3%;
+    width: 80%;
+    margin: auto;
+    
+}
+
+#deals1{
+    /* border: 1px solid black;  */
+    background-color: white;
+    color: black;
+    border-radius: 8px;
+        
+}
+
+#vr{
+    /* border: 1px solid blue; */
+    padding: 12px;
+    display: flex;
+    justify-content: space-around;
+}
+#ofimg{
+    width: 100%;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+#oh1{
+    color: #E4002B;
+    font-size: 28px;
+}
+#oh1+p{
+    font-size: 12px;
+    padding: 5px;
+}
+#da{
+   color: rgb(48, 45, 45);
+   margin-top: 10px;
+   /* border: 1px solid black; */
+}
+#da:hover{
+    background-color: rgb(243, 243, 243);
+}
+#redeem{
+    border-radius: 50px;
+    padding: 12px;
+    width: 40%;
+    border: 0.5px solid;
+}
+#redeem:hover{
+    background-color: black;
+    color: white;
+}
+
+#last{
+    /* border: 1px solid wheat; */
+    width: 95%;
+    margin: auto;
+    margin-top: 100px;
+    display: inline-flex;
+    justify-content: space-evenly;
+}
+#lastimg11{
+    margin-top: -200px;
+}
+#last1{
+    display: flex;
+    justify-content: space-around;
+    /* border: 1px solid red; */
+}
+#containt{
+    /* border: 1px solid orange; */
+    /* display: block; */
+    padding: 10px;
+    font-size: 13px;
+
+}
+#containt a{
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+}
+#containt a:hover{
+    text-decoration: underline;
+}
+
+#lastimg{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 8%;
+    margin-top: 20px;
+}
+#lastimg img{
+    width: 120px;
+}
+#a{
+    
+    color: white;
+}
+#aa{
+    margin-top: 30px;
+}
+
+#social{
+    float: right;
+    margin-top: -100px;
+    padding: 20px;
+}
+#social a{
+    padding: 5px;
+    /* border: 1px solid orange; */
+}
+
+@media only screen and (min-width: 421px) and (max-width: 900px) {
+    #menudiv{
+        /* border: 1px solid black; */
+        width: 81%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(2,1fr);
+        gap: 3%;
+        margin-bottom: 150px;
+    }
+    #all{
+        /* border: 1px solid orange; */
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 3%;
+        width: 50%;
+        margin: auto;
+        margin-top: 50px;
+    }
+}

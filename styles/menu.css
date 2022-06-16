@@ -1,0 +1,255 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+}
+
+#navbar{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    margin: auto;
+    background-color: white;
+    margin-top: -3.8%;
+    margin-left: -8px
+}
+header{
+    position: fixed;
+    z-index: 16;
+    margin: auto;
+    width: 100%;
+    margin-top: -15px;
+}
+
+#nav1{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    width: 400px;
+    
+}
+
+#nav2{
+    /* border: 1px solid red; */
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 230px;
+    margin-top: 10px;
+}
+#qty{
+    width: 51px;
+    height: 52px;
+    /* border: 1px solid black; */
+    margin-top: 5px;
+}
+#cartpa{
+    /* border: 1px solid black; */
+    margin-top: -35px;
+    margin-left: 18px;
+    font-size: 12px;
+    font-weight: bold;
+}
+#cc{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+#sign{
+    width: 30px;
+    height: 25px;
+    /* border: 1px solid black; */
+    margin-top: 18px;
+}
+#sig{
+    /* border: 1px solid black; */
+    margin-top: 19px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    margin-right: 5px;
+}
+#price{
+    /* border: 1px solid black; */
+    margin-top: 18px;
+    font-size: medium;
+    margin-left: 8px;
+    font-size: 12px;
+}
+#hr{
+    border: 1px solid gray;
+    /* color: black; */
+    /* padding: 10px; */
+    margin: -10px;
+    height: 60%;
+    margin-top: 10px;
+}
+#logo{
+    margin-top: 20px;
+}
+#menu{
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+}
+#deals{
+    margin-top: 20px;
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    font-size: 15px;
+    
+}
+
+#so{
+    display: flex;
+    justify-content: center;
+    /* border: 1px solid red; */
+    color: white;
+    background-color: rgb(26, 25, 25);
+    padding: 20px;
+    width: 100%;
+    margin-top: -10px;
+    position: fixed;
+    top: 80px;
+    font-size: 20px;
+}
+#imm{
+    /* border: 2px solid red; */
+    margin-top: 6.8%;
+    margin-bottom: 2%;
+    position: fixed;
+    margin-left: 5%;
+}
+#src{
+    /* border: 2px solid red; */
+    margin-left: 15%;
+    width: 100%;
+    height: 30px;
+}
+#completemenu{
+    top: 150px;
+    /* border: 1px solid black; */
+    display: flex;
+    width: 90%;
+    margin: auto;
+    position: relative;
+    margin-top: 5%;
+}
+
+#categories{
+    /* border: 1px solid red; */
+    width: 22%;
+    position: fixed;
+    
+}
+
+#categories li{
+    list-style: none;
+    padding: 12px;
+    padding-left: 0;
+    color: rgb(77, 75, 75);
+    font-weight: bold;
+}
+#categories li:hover{
+    cursor: pointer;
+    color: black;
+}
+#categories h2:hover{
+    cursor: pointer;
+}
+
+#products{
+    /* border: 1px solid blue; */
+    width: 78%;
+    position: relative;
+    margin-left: 4%;
+    padding: 20px;
+    left: 18%;
+}
+#input{
+    border: 1px solid gray;
+    border-radius: 50px;
+    padding: 10px;
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+#input input{
+    border: none;
+    width: 70%;
+}
+#searchicon{
+    width: 20px;
+}
+#hrline{
+    margin-top: 2%;
+    border: 1px solid black;
+}
+#prodtop{
+    margin-top: 8%;
+    /* border: 1px solid red; */
+    background-color: #f8f7f5;
+}
+#prod{
+    /* border: 1px solid black; */
+    padding: 20px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 3%;
+    
+}
+.pimg{
+    width: 100%;
+    border-radius: 8px;
+}
+.div{
+    /* border: 1px solid orange; */
+    padding: 10px;
+}
+.name{
+    /* border: 1px solid black; */
+    font-weight: bolder;
+    font-size: 15px;
+     padding: 10px;
+}
+.price{
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-weight: bold;
+     padding: 10px;
+}
+.descrip{
+    /* border: 1px solid black; */
+    font-size: 12px;
+    color: rgb(92, 91, 91);
+    font-weight: bold;
+     padding: 10px;
+}
+.btn{
+    padding: 12px;
+    width: 40%;
+    margin-left: 10%;
+    border: none;
+    border-radius: 50px;
+    background-color:#e4002b;
+    color: white;
+     padding: 10px;
+}
+
+@media only screen and (min-width: 421px) and (max-width: 900px){
+    #prod{
+        /* border: 1px solid black; */
+        padding: 20px;
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 3%;
+        
+    }
+
+}
